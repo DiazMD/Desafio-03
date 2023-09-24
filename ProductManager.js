@@ -1,12 +1,11 @@
 import fs from "fs";
 
 class ProductManager {
-    
     constructor(){
         this.path= "Products.json"
     }
 
-    async getProducts(queryObj){
+    async getProducts(queryObj=""){
         console.log("QueryObj", queryObj);
         const {limit} = queryObj
         try {
