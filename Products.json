@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Mesa",
+    "description": "Madera",
+    "price": 15000,
+    "thumbnail": "https://img.com",
+    "code": "12345",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Silla",
+    "description": "Madera",
+    "price": 4000,
+    "thumbnail": "https://img.com",
+    "code": "12346",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "title": "Banqueta",
+    "description": "Plastico",
+    "price": 2500,
+    "thumbnail": "https://img.com",
+    "code": "12347",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "title": "Silla",
+    "description": "Plastico",
+    "price": 2000,
+    "thumbnail": "https://img.com",
+    "code": "3513",
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "title": "Sillon",
+    "description": "Cuero",
+    "price": 49000,
+    "thumbnail": "https://img.com",
+    "code": "3512",
+    "stock": 2
+  },
+  {
+    "id": 6,
+    "title": "Ventana",
+    "description": "Aluminio",
+    "price": 7800,
+    "thumbnail": "https://img.com",
+    "code": "3514",
+    "stock": 5
+  },
+  {
+    "id": 7,
+    "title": "Sillon",
+    "description": "Mimbre",
+    "price": 22000,
+    "thumbnail": "https://img.com",
+    "code": "3515",
+    "stock": 4
+  },
+  {
+    "id":8,
+    "title": "Mesa",
+    "description": "Vidrio",
+    "price": 38000,
+    "thumbnail": "https://img.com",
+    "code": "3516",
+    "stock": 1
+  },
+  {
+    "id": 9,
+    "title": "Escritorio",
+    "description": "Madera",
+    "price": 18000,
+    "thumbnail": "https://img.com",
+    "code": "3517",
+    "stock": 7
+  },
+  {
+    "id": 10,
+    "title": "Armario",
+    "description": "Madera",
+    "price": 27000,
+    "thumbnail": "https://img.com",
+    "code": "3518",
+    "stock": 2
+  }
+]
